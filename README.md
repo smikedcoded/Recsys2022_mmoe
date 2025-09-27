@@ -1,2 +1,2 @@
 # Recsys2022_mmoe
-recsys2022挑战的一个
+recsys2022挑战的一个尝试性方案
